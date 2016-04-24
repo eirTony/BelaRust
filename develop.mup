@@ -1,0 +1,283 @@
+{
+  "title": "develop",
+  "id": 1,
+  "formatVersion": 2,
+  "ideas": {
+    "1": {
+      "title": "DDzCommons",
+      "id": "2.57a57f68dee53b70",
+      "ideas": {
+        "1": {
+          "title": "data",
+          "id": "5.57a57f68dee53b70",
+          "ideas": {
+            "1": {
+              "title": "dzBase",
+              "id": "6.57a57f68dee53b70"
+            },
+            "2": {
+              "title": "dzType",
+              "id": "7.57a57f68dee53b70"
+            },
+            "3": {
+              "title": "dzStone",
+              "id": "8.57a57f68dee53b70"
+            },
+            "4": {
+              "title": "dzVar",
+              "id": "9.57a57f68dee53b70"
+            },
+            "3.5": {
+              "title": "dzNumeric",
+              "id": "10.57a57f68dee53b70"
+            }
+          }
+        },
+        "2": {
+          "title": "TBD",
+          "id": "11.57a57f68dee53b70",
+          "ideas": {
+            "1": {
+              "title": "dzFileSys",
+              "id": "12.57a57f68dee53b70"
+            }
+          }
+        },
+        "1.5": {
+          "title": "support",
+          "id": "47.158e093cec2cf63",
+          "ideas": {
+            "2": {
+              "title": "dzExe",
+              "id": "50.158e093cec2cf63",
+              "ideas": {
+                "1": {
+                  "title": "Options",
+                  "id": "57.68b3e86498117d87"
+                }
+              }
+            },
+            "3": {
+              "title": "dzResult",
+              "id": "51.158e093cec2cf63"
+            },
+            "4": {
+              "title": "dzEntity",
+              "id": "52.158e093cec2cf63"
+            },
+            "5": {
+              "title": "dzSystem",
+              "id": "53.158e093cec2cf63"
+            },
+            "0.5": {
+              "title": "dzSettings",
+              "id": "49.158e093cec2cf63",
+              "attr": {
+                "style": {}
+              }
+            },
+            "0.25": {
+              "title": "dzState",
+              "id": "48.158e093cec2cf63"
+            }
+          }
+        },
+        "1.75": {
+          "title": "work",
+          "id": "54.158e093cec2cf63",
+          "ideas": {
+            "1": {
+              "title": "dzMessage",
+              "id": "55.158e093cec2cf63"
+            },
+            "2": {
+              "title": "dzStore",
+              "id": "56.158e093cec2cf63"
+            }
+          }
+        },
+        "1.625": {
+          "title": "widget",
+          "id": "58.68b3e86498117d87",
+          "ideas": {
+            "1": {
+              "title": "TBD",
+              "id": "59.68b3e86498117d87"
+            }
+          }
+        }
+      }
+    },
+    "11": {
+      "title": "Pixelica",
+      "id": "3.57a57f68dee53b70",
+      "ideas": {
+        "1": {
+          "title": "data",
+          "id": "14.57a57f68dee53b70",
+          "ideas": {
+            "1": {
+              "title": "pxPixel",
+              "id": "15.57a57f68dee53b70"
+            },
+            "2": {
+              "title": "pxBlock",
+              "id": "16.57a57f68dee53b70"
+            },
+            "3": {
+              "title": "pxFrame",
+              "id": "17.57a57f68dee53b70"
+            },
+            "4": {
+              "title": "pxSequence",
+              "id": "18.57a57f68dee53b70"
+            },
+            "5": {
+              "title": "pxCache",
+              "id": "19.57a57f68dee53b70"
+            }
+          }
+        },
+        "2": {
+          "title": "widget",
+          "id": "20.57a57f68dee53b70",
+          "ideas": {
+            "1": {
+              "title": "pxScene",
+              "id": "21.57a57f68dee53b70"
+            },
+            "2": {
+              "title": "pxView",
+              "id": "22.57a57f68dee53b70"
+            },
+            "3": {
+              "title": "pxLayer",
+              "id": "23.57a57f68dee53b70"
+            },
+            "4": {
+              "title": "pxMarker",
+              "id": "24.57a57f68dee53b70"
+            },
+            "5": {
+              "title": "pxRaster",
+              "id": "25.57a57f68dee53b70"
+            }
+          }
+        }
+      }
+    },
+    "-10": {
+      "title": "ImageRii",
+      "id": "4.57a57f68dee53b70",
+      "attr": {
+        "position": [
+          126,
+          -3,
+          1
+        ],
+        "style": {}
+      },
+      "ideas": {
+        "1": {
+          "title": "TBD",
+          "id": "26.57a57f68dee53b70",
+          "ideas": {
+            "1": {
+              "title": "riColor",
+              "id": "27.57a57f68dee53b70"
+            },
+            "2": {
+              "title": "riGradient",
+              "id": "28.57a57f68dee53b70"
+            },
+            "3": {
+              "title": "riPlanar",
+              "id": "29.57a57f68dee53b70"
+            },
+            "4": {
+              "title": "riFilter",
+              "id": "30.57a57f68dee53b70",
+              "ideas": {
+                "1": {
+                  "title": "plugins",
+                  "id": "31.57a57f68dee53b70"
+                }
+              }
+            },
+            "5": {
+              "title": "riRawInput",
+              "id": "32.57a57f68dee53b70",
+              "ideas": {
+                "1": {
+                  "title": "plugins",
+                  "id": "33.57a57f68dee53b70",
+                  "ideas": {}
+                }
+              }
+            },
+            "6": {
+              "title": "riDevelop",
+              "id": "35.57a57f68dee53b70",
+              "ideas": {
+                "1": {
+                  "title": "plugins",
+                  "id": "36.57a57f68dee53b70",
+                  "ideas": {}
+                }
+              }
+            },
+            "7": {
+              "title": "riMetadata",
+              "id": "38.57a57f68dee53b70",
+              "ideas": {
+                "1": {
+                  "title": "exif",
+                  "id": "39.57a57f68dee53b70"
+                },
+                "2": {
+                  "title": "plugins",
+                  "id": "40.57a57f68dee53b70"
+                }
+              }
+            },
+            "8": {
+              "title": "riTiff",
+              "id": "41.57a57f68dee53b70",
+              "ideas": {
+                "1": {
+                  "title": "plugins",
+                  "id": "42.57a57f68dee53b70"
+                }
+              }
+            },
+            "9": {
+              "title": "riBayer",
+              "id": "43.57a57f68dee53b70",
+              "ideas": {
+                "1": {
+                  "title": "plugins",
+                  "id": "44.57a57f68dee53b70"
+                }
+              }
+            },
+            "10": {
+              "title": "riPipeline",
+              "id": "45.57a57f68dee53b70",
+              "ideas": {
+                "1": {
+                  "title": "plugins",
+                  "id": "46.57a57f68dee53b70"
+                }
+              }
+            },
+            "3.5": {
+              "title": "riImage",
+              "id": "60.68b3e86498117d87"
+            }
+          }
+        }
+      }
+    }
+  },
+  "links": []
+}

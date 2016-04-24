@@ -1,0 +1,12 @@
+#ifndef BRSETTINGS_GLOBAL_H
+#define BRSETTINGS_GLOBAL_H
+
+#include <QtCore/qglobal.h>
+
+#if defined(BRSETTINGS_LIBRARY)
+#  define BRSETTINGSSHARED_EXPORT Q_DECL_EXPORT
+#else
+#  define BRSETTINGSSHARED_EXPORT Q_DECL_IMPORT
+#endif
+
+#endif // BRSETTINGS_GLOBAL_H

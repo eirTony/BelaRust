@@ -1,0 +1,12 @@
+#ifndef BRENTITY_GLOBAL_H
+#define BRENTITY_GLOBAL_H
+
+#include <QtCore/qglobal.h>
+
+#if defined(BRENTITY_LIBRARY)
+#  define BRENTITYSHARED_EXPORT Q_DECL_EXPORT
+#else
+#  define BRENTITYSHARED_EXPORT Q_DECL_IMPORT
+#endif
+
+#endif // BRENTITY_GLOBAL_H
